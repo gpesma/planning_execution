@@ -3,8 +3,7 @@ project(bwi_kr_execution)
 
 find_package(catkin REQUIRED COMPONENTS
   actionlib
-  actionlib_msgs 
-  bwi_msgs
+  actionlib_msgs
   message_generation
   roscpp
   roslib
