@@ -17,7 +17,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
     AnswerSet.msg
-    AspFluent.msg
+    AspFluent.msgsu
     AspRule.msg)
 
 ## Generate services in the 'srv' folder

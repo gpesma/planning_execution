@@ -1,11 +1,10 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>bplanning_execution</name>
+  <name>planning_execution</name>
   <version>0</version>
   <description>
     Execution nodes for using the BWI Knowledge Representation.
   </description>
-  <license>BSD</license>
 
 
   <buildtool_depend>catkin</buildtool_depend>
