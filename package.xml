@@ -5,6 +5,7 @@
   <description>
     Execution nodes for using the BWI Knowledge Representation.
   </description>
+  <license>BSD</license>
 
   <maintainer email ="gpesmazoglou@gmail.com">gpesma</maintainer>
   <buildtool_depend>catkin</buildtool_depend>
