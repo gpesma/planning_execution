@@ -6,11 +6,11 @@
 #include "actasp/action_utils.h"
 
 #include "msgs_utils.h"
-#include "bwi_kr_execution/UpdateFluents.h"
-#include "bwi_kr_execution/CurrentStateQuery.h"
-#include "bwi_kr_execution/ComputePlan.h"
-#include "bwi_kr_execution/ComputeAllPlans.h"
-#include "bwi_kr_execution/IsPlanValid.h"
+#include "UpdateFluents.h"
+#include "planning_execution/CurrentStateQuery.h"
+#include "planning_execution/ComputePlan.h"
+#include "planning_execution/ComputeAllPlans.h"
+#include "planning_execution/IsPlanValid.h"
 
 #include <ros/ros.h>
 #include <ros/package.h>
